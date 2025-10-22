@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+python-dotenv
+streamlit
+plotly
+sentence-transformers
+faiss-cpu
