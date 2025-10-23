@@ -44,7 +44,7 @@ The system combines **data retrieval, embeddings, and similarity search** to pro
 
 ---
 
-**Explanation:**
+## Explanation:
 
 - **User**: Types a natural language question in the Streamlit app.  
 - **RAG Backend**: Processes the question, filters data, generates embeddings, retrieves context, and produces answers.  
